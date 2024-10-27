@@ -6,11 +6,11 @@
 
 # good
 def handle():
-   bd_acesso()
+   bd_access()
    get_user()
    add_user()
 
-def bd_acesso():
+def bd_access():
    print('Base date accessed...')
 
 def get_user():   
